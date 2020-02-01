@@ -1,0 +1,22 @@
+.one-post
+{
+    width: 410px;
+    height: 100px;
+    border: 2px solid rgba(0, 0, 0, 0.541);
+}
+.one-post img
+{
+    float:right;
+}
+.btn-edit
+{
+    color: #fff;
+    background-color: green;
+    border: none;
+}
+.btn-delete
+{
+    color: #fff;
+    background-color: green;
+    border: none;
+}
